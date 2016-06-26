@@ -8,7 +8,7 @@ from IPython.core.display import HTML
 
 
 def plot_surface(clf, X, y,
-                 xlim=(-10, 10), ylim=(-10, 10), n_steps=250,
+                 xlim=(140, 210), ylim=(21, 29), n_steps=250,
                  subplot=None, show=True):
     if subplot is None:
         fig = plt.figure()
