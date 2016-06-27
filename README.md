@@ -15,7 +15,10 @@ By the end you will know:
 # Additional material
 
 * [Visual explanation of Decision trees][visualtrees]
+* [Neural network playground](http://playground.tensorflow.org/)
 * [Gathering Statistics with Privacy, aided by the Flip of a Coin][privatestats]
+* [Unbiased performance estimates][unbiased]
+* [Download pre-trained models](http://caffe.berkeleyvision.org/model_zoo.html)
 
 
 # Install instructions
@@ -31,16 +34,4 @@ to get the python3.5 version.
 
 [visualtrees]: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 [privatestats]: http://blog.chromium.org/2014/10/learning-statistics-with-privacy-aided.html
-
-
-# Material
-
-* Fancy pants stuff (deep learning)
-  - tensor flow playground
-  - **NLP examples**
-  - variable importance
-  - LDA for documents (and "documents")
-  - you can download fancy models
-    - http://caffe.berkeleyvision.org/model_zoo.html
-  - image tagging, caption generation
-  - visual question answering
+[unbiased]: http://betatim.github.io/posts/unbiased-performance/
