@@ -4,6 +4,10 @@ Understanding (big) data with machine-learning.
 
 Material for [Geneva's Humanitarian Big Data](www.wildtreetech.com/ghbd).
 
+Slides: [Geneva's Humanitarian Big Data][slides]
+
+[slides]: https://cdn.rawgit.com/wildtreetech/ghbd/master/slides/index.html
+
 By the end you will know:
 
 * the basics of [`scikit-learn`](http://scikit-learn.org/stable/)
