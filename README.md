@@ -1,6 +1,15 @@
 # Geneva's Humanitarian Big Data
 
-Understanding (big) data with machine-learning.
+Understanding (big) data with machine-learning. A half-day workshop introducing
+techniques for making sense of large datasets.
+
+By the end you will know:
+
+* the basics of [`scikit-learn`](http://scikit-learn.org/stable/)
+* how to use Decision Trees and Random Forests
+* how to use cross-validation to measure performance
+* that there are many metrics by which to measure performance
+
 
 Material for [Geneva's Humanitarian Big Data](www.wildtreetech.com/ghbd).
 
@@ -11,13 +20,6 @@ Try it live: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo
 
 
 [slides]: https://cdn.rawgit.com/wildtreetech/ghbd/master/slides/index.html
-
-By the end you will know:
-
-* the basics of [`scikit-learn`](http://scikit-learn.org/stable/)
-* how to use Decision Trees and Random Forests
-* how to use cross-validation to measure performance
-* that there are many metrics by which to measure performance
 
 
 # Additional material
